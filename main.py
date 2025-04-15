@@ -1,6 +1,8 @@
 import json
 from utils import load_tasks, save_tasks
 
+print("Welcome to the Task Tracker App!")
+
 def show_menu():
     print("\nTask Tracker")
     print("1. View Tasks")
